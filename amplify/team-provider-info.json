@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "serverless-react-20190313200012-authRole",
+            "UnauthRoleArn": "arn:aws:iam::350992007016:role/serverless-react-20190313200012-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::350992007016:role/serverless-react-20190313200012-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "serverless-react-20190313200012-deployment",
+            "UnauthRoleName": "serverless-react-20190313200012-unauthRole",
+            "StackName": "serverless-react-20190313200012",
+            "StackId": "arn:aws:cloudformation:us-west-2:350992007016:stack/serverless-react-20190313200012/6bb0a690-459a-11e9-9f94-061aea18964c"
+        }
+    }
+}
